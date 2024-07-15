@@ -14,7 +14,8 @@ The simulation uses a grid of cells that are either filled (by sand) or empty. T
 <div align="center">
   <img src="grid.png" alt="drawing" width="200" text-align="center" style="border-radius: 10%;"/>
 </div>
-Checks:
+
+### Checks:
 
 - If cell 1 is empty the program empties the current cell and fills cell 1
 - Else if cell 2 is empty the program empties the current cell and fills cell 2
