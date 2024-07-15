@@ -19,4 +19,4 @@ Checks:
 - If cell 1 is empty the program empties the current cell and fills cell 1
 - Else if cell 2 is empty the program empties the current cell and fills cell 2
 - Else if cell 3 is empty the program empties the current cell and fills cell 3
-- Else the current cell stay's filled
+- Else the current cell stays filled
