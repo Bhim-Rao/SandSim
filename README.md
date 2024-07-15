@@ -11,9 +11,9 @@ Click or drag with your mouse to create new sand!
 
 ## Algorithm used
 The simulation uses a grid of cells that are either filled (by sand) or empty. The algorithm iterates through every cell and if the cell is filled the program goes through some checks.
-<p align="center" style="border-radius: 10%;">
-  <img src="grid.png" alt="drawing" width="200" text-align="center"/>
-</p>
+<div align="center">
+  <img src="grid.png" alt="drawing" width="200" text-align="center" style="border-radius: 10%;"/>
+</div>
 Checks:
 
 - If cell 1 is empty the program empties the current cell and fills cell 1
